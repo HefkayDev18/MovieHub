@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moviehub/static/css/main.ccfd3975.css",
-    "main.js": "/moviehub/static/js/main.ccf2ec27.js",
-    "static/js/453.f8250674.chunk.js": "/moviehub/static/js/453.f8250674.chunk.js",
-    "index.html": "/moviehub/index.html",
-    "static/media/search.svg": "/moviehub/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.ccfd3975.css.map": "/moviehub/static/css/main.ccfd3975.css.map",
-    "main.ccf2ec27.js.map": "/moviehub/static/js/main.ccf2ec27.js.map",
-    "453.f8250674.chunk.js.map": "/moviehub/static/js/453.f8250674.chunk.js.map"
+    "main.css": "/MovieHub/static/css/main.32f366d5.css",
+    "main.js": "/MovieHub/static/js/main.787d0586.js",
+    "static/js/453.f8250674.chunk.js": "/MovieHub/static/js/453.f8250674.chunk.js",
+    "index.html": "/MovieHub/index.html",
+    "static/media/search.svg": "/MovieHub/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.32f366d5.css.map": "/MovieHub/static/css/main.32f366d5.css.map",
+    "main.787d0586.js.map": "/MovieHub/static/js/main.787d0586.js.map",
+    "453.f8250674.chunk.js.map": "/MovieHub/static/js/453.f8250674.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccfd3975.css",
-    "static/js/main.ccf2ec27.js"
+    "static/css/main.32f366d5.css",
+    "static/js/main.787d0586.js"
   ]
 }
